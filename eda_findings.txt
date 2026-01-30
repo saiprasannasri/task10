@@ -1,0 +1,4 @@
+EDA Findings:
+- Missing values handled using median/mode.
+- Outliers detected using IQR method.
+- Strong correlations observed between numeric variables.
